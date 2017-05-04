@@ -4,3 +4,8 @@ pyparsing==2.2.0
 six==1.10.0
 django-bootstrap3
 django-registration-redux
+django_celery_beat
+django_celery_results
+numpy
+scikit-learn
+scipy
